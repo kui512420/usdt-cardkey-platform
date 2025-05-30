@@ -310,7 +310,7 @@ spring.datasource.password=your_password
 ## 🙏 致谢
 
 感谢以下开源项目为本项目提供的支持：
-
+- [tronusdt](https://github.com/minknown/tronusdt) - 提供了usdt的pay的服务
 - [Spring Boot](https://spring.io/projects/spring-boot) - 强大的Java应用框架
 - [Vue.js](https://vuejs.org/) - 渐进式JavaScript框架
 - [MyBatis Plus](https://baomidou.com/) - 优秀的ORM框架
@@ -326,6 +326,6 @@ spring.datasource.password=your_password
 
 **⭐ 如果这个项目对您有帮助，请给我们一个星标！**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/kui512420)
 
 </div>
