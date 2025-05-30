@@ -1,0 +1,15 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# 项目介绍
+本项目是一个usdt支付的卡密发货平台
+
+# 数据
+cardcode_system 是我的数据库结构
+
+## 限制
+
+
+- 目前运行的系统是windows
